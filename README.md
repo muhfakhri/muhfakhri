@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning english language<br>🎯 Goals: prod my parents<br>🎲 Fun fact: i think i am funny</p>
+<p align="left">📚 I'm currently learning english language<br>🎯 Goals: <br>🎲 Fun fact: i think i am funny</p>
 
 ###
 
