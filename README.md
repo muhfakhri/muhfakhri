@@ -4,11 +4,6 @@
 
 <p align="left">Student at SMK N 1 BANTUL</p>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=musisipi.musisipi&"  />
-</div>
-
-
 
 
 
