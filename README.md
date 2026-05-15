@@ -7,3 +7,4 @@
 
 
 
+![snake gif](https://github.com/muhfakhri/muhfakhri/blob/output/github-contribution-grid-snake.gif)
