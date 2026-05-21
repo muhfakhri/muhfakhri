@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="59%">
  
  <!-- waka-box start -->
 📊 Weekly development breakdown
