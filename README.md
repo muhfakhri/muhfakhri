@@ -5,7 +5,8 @@
 
 <table>
 <tr>
-<td valign="top" width="10%">
+<td valign="top" width="50%">
+ 
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
@@ -19,6 +20,8 @@ Other      🕓 4m    ▊░░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 </td>
 <td valign="top" width="50%">
+
+
 </td>
 </tr>
 </table> 
