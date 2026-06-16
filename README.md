@@ -5,11 +5,11 @@
  <!-- waka-box start -->
 📊 Weekly development breakdown
 ```text
-Python         🕓 4h51m █████████████▎░░░░░░░░░░ 55.3%
-Text           🕓 2h6m  █████▊░░░░░░░░░░░░░░░░░░ 24.0%
-Markdown       🕓 52m   ██▍░░░░░░░░░░░░░░░░░░░░░  9.9%
-Go             🕓 47m   ██▏░░░░░░░░░░░░░░░░░░░░░  9.0%
-Other          🕓 5m    ▏░░░░░░░░░░░░░░░░░░░░░░░  1.0%
+Python                           🕓 5h4m  ███░░░ 50.7%
+Markdown                         🕓 1h44m █░░░░░ 17.4%
+Text                             🕓 1h43m █░░░░░ 17.3%
+Go                               🕓 47m   ▍░░░░░  7.9%
+C#                               🕓 19m   ▏░░░░░  3.3%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
