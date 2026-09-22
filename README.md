@@ -4,6 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&width=435&lines=Hi+i'm+Nur+Fakhri+-+sys0mi)](https://git.io/typing-svg)<br>
 
+```
+int main (){
+  string name = "NurFakhri"
+
+return 0;
+}
+```
+
 </td>
 </tr>
 </table> 
