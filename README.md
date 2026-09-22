@@ -6,13 +6,13 @@
 
 ```cpp
 int main() {
-    std::string name = "Nur Fakhri";
-    std::string alias = "sys0mi";
-    std::string role  = "Cybersec Enthusiast";
+    string name = "Nur Fakhri";
+    string alias = "sys0mi";
+    string role  = "Cybersec Enthusiast";
 
-    std::cout << "Hi, I'm " << name << " a.k.a " << alias << "!\n";
-    std::cout << "Role   : " << role << "\n";
-    std::cout << "Status : always coding, always learning\n";
+    if (tired == true) {
+        cout << "Try again!!";
+    }
 
     return 0;
 }
