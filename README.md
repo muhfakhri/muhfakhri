@@ -4,11 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&width=435&lines=Hi+i'm+Nur+Fakhri+-+sys0mi)](https://git.io/typing-svg)<br>
 
-```
-int main (){
-  string name = "NurFakhri"
+```cpp
+int main() {
+    std::string name = "Nur Fakhri";
+    std::string alias = "sys0mi";
+    std::string role  = "Cybersec Enthusiast";
 
-return 0;
+    std::cout << "Hi, I'm " << name << " a.k.a " << alias << "!\n";
+    std::cout << "Role   : " << role << "\n";
+    std::cout << "Status : always coding, always learning\n";
+
+    return 0;
 }
 ```
 
